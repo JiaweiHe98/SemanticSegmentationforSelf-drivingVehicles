@@ -9,4 +9,5 @@
 - CIS519Project.ipynb
 
 ## Contribution
-
+- Code contribution: We use the Pytorch framework to replace the MXNet framework used in deep feature flow (DFF), since PyTorch is a more popular framework in the deep learning field.
+- Algorithm contribution: We improve the DFF architecture by applying the FlowNet2.0 architecture to the original architecture, which used the FlowNet1.0 architecture. We also improve the DFF architecture by applying the DeepLab3+ architecture to the original architecture, which uses the DeepLab architecture.
