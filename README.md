@@ -11,7 +11,7 @@
 - Flownet1_result.mp4
 - Flownet2.ipynb
 - Flownet2_result.mp4
-- (Our project is based on [PyTorch Segmentation](https://github.com/yassouali/pytorch-segmentation))
+- Our project is based on [PyTorch Segmentation](https://github.com/yassouali/pytorch-segmentation)
 
 ## Contribution
 - Code contribution: We use the Pytorch framework to replace the MXNet framework used in deep feature flow (DFF), since PyTorch is a more popular framework in the deep learning field.
