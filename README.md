@@ -4,6 +4,10 @@
 
 ![image-20211222215227018](https://user-images.githubusercontent.com/89979160/147180924-45111e63-ea51-4613-97fa-fb30e02020fc.png)
 
+## Example
+
+![1640228554(1)](https://user-images.githubusercontent.com/89979160/147181731-7d74d839-ae1d-4a58-b363-d1bd87d5a227.png)
+
 ## Main File
 
 - CIS519Project.ipynb
